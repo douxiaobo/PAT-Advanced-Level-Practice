@@ -9,7 +9,7 @@ Calculate a+b and output the sum in standard format -- that is, the digits must 
 
 
 **Input Specification:**<br>
-Each input file contains one test case. Each case contains a pair of integers a and b where \${−10^6 ≤a,b≤10^6}. The numbers are separated by a space.
+Each input file contains one test case. Each case contains a pair of integers a and b where $−10^6 ≤a,b≤10^6$. The numbers are separated by a space.
 
 
 **Output Specification:**<br>
